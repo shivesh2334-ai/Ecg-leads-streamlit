@@ -1,0 +1,9 @@
+txt
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+opencv-python-headless
+Pillow
